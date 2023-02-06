@@ -1,0 +1,2006 @@
+{
+  "20230116": {
+    "date": "2023-01-16T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230117": {
+    "date": "2023-01-17T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230118": {
+    "date": "2023-01-18T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230119": {
+    "date": "2023-01-19T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230120": {
+    "date": "2023-01-20T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230121": {
+    "date": "2023-01-21T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230122": {
+    "date": "2023-01-22T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230123": {
+    "date": "2023-01-23T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230124": {
+    "date": "2023-01-24T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230125": {
+    "date": "2023-01-25T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230126": {
+    "date": "2023-01-26T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230127": {
+    "date": "2023-01-27T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230128": {
+    "date": "2023-01-28T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230129": {
+    "date": "2023-01-29T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230130": {
+    "date": "2023-01-30T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230131": {
+    "date": "2023-01-31T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230201": {
+    "date": "2023-02-01T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230202": {
+    "date": "2023-02-02T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230203": {
+    "date": "2023-02-03T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230204": {
+    "date": "2023-02-04T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230205": {
+    "date": "2023-02-05T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230206": {
+    "date": "2023-02-06T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230207": {
+    "date": "2023-02-07T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230208": {
+    "date": "2023-02-08T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230209": {
+    "date": "2023-02-09T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230210": {
+    "date": "2023-02-10T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230211": {
+    "date": "2023-02-11T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230212": {
+    "date": "2023-02-12T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230213": {
+    "date": "2023-02-13T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230214": {
+    "date": "2023-02-14T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230215": {
+    "date": "2023-02-15T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230216": {
+    "date": "2023-02-16T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230217": {
+    "date": "2023-02-17T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230218": {
+    "date": "2023-02-18T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230219": {
+    "date": "2023-02-19T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230220": {
+    "date": "2023-02-20T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230221": {
+    "date": "2023-02-21T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230222": {
+    "date": "2023-02-22T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230223": {
+    "date": "2023-02-23T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230224": {
+    "date": "2023-02-24T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230225": {
+    "date": "2023-02-25T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230226": {
+    "date": "2023-02-26T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230227": {
+    "date": "2023-02-27T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230228": {
+    "date": "2023-02-28T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230301": {
+    "date": "2023-03-01T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230302": {
+    "date": "2023-03-02T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230303": {
+    "date": "2023-03-03T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230304": {
+    "date": "2023-03-04T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230305": {
+    "date": "2023-03-05T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230306": {
+    "date": "2023-03-06T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230307": {
+    "date": "2023-03-07T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230308": {
+    "date": "2023-03-08T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230309": {
+    "date": "2023-03-09T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230310": {
+    "date": "2023-03-10T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230311": {
+    "date": "2023-03-11T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230312": {
+    "date": "2023-03-12T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230313": {
+    "date": "2023-03-13T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230314": {
+    "date": "2023-03-14T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230315": {
+    "date": "2023-03-15T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230316": {
+    "date": "2023-03-16T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230317": {
+    "date": "2023-03-17T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230318": {
+    "date": "2023-03-18T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230319": {
+    "date": "2023-03-19T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230320": {
+    "date": "2023-03-20T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230321": {
+    "date": "2023-03-21T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230322": {
+    "date": "2023-03-22T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230323": {
+    "date": "2023-03-23T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230324": {
+    "date": "2023-03-24T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230325": {
+    "date": "2023-03-25T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230326": {
+    "date": "2023-03-26T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230327": {
+    "date": "2023-03-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230328": {
+    "date": "2023-03-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230329": {
+    "date": "2023-03-29T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230330": {
+    "date": "2023-03-30T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230331": {
+    "date": "2023-03-31T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230401": {
+    "date": "2023-04-01T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230402": {
+    "date": "2023-04-02T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230403": {
+    "date": "2023-04-03T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230404": {
+    "date": "2023-04-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230405": {
+    "date": "2023-04-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230406": {
+    "date": "2023-04-06T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230407": {
+    "date": "2023-04-07T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-04-07",
+      "localName": "Långfredagen",
+      "name": "Good Friday",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-04-07",
+      "localName": "Långfredagen",
+      "name": "Good Friday",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230408": {
+    "date": "2023-04-08T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230409": {
+    "date": "2023-04-09T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230410": {
+    "date": "2023-04-10T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-04-10",
+      "localName": "Annandag påsk",
+      "name": "Easter Monday",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-04-10",
+      "localName": "Annandag påsk",
+      "name": "Easter Monday",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230411": {
+    "date": "2023-04-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230412": {
+    "date": "2023-04-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230413": {
+    "date": "2023-04-13T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230414": {
+    "date": "2023-04-14T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230415": {
+    "date": "2023-04-15T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230416": {
+    "date": "2023-04-16T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230417": {
+    "date": "2023-04-17T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230418": {
+    "date": "2023-04-18T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230419": {
+    "date": "2023-04-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230420": {
+    "date": "2023-04-20T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230421": {
+    "date": "2023-04-21T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230422": {
+    "date": "2023-04-22T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230423": {
+    "date": "2023-04-23T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230424": {
+    "date": "2023-04-24T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230425": {
+    "date": "2023-04-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230426": {
+    "date": "2023-04-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230427": {
+    "date": "2023-04-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230428": {
+    "date": "2023-04-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230429": {
+    "date": "2023-04-29T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230430": {
+    "date": "2023-04-30T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230501": {
+    "date": "2023-05-01T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-05-01",
+      "localName": "Första maj",
+      "name": "International Workers' Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-05-01",
+      "localName": "Första maj",
+      "name": "International Workers' Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230502": {
+    "date": "2023-05-02T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230503": {
+    "date": "2023-05-03T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230504": {
+    "date": "2023-05-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230505": {
+    "date": "2023-05-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230506": {
+    "date": "2023-05-06T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230507": {
+    "date": "2023-05-07T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230508": {
+    "date": "2023-05-08T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230509": {
+    "date": "2023-05-09T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230510": {
+    "date": "2023-05-10T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230511": {
+    "date": "2023-05-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230512": {
+    "date": "2023-05-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230513": {
+    "date": "2023-05-13T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230514": {
+    "date": "2023-05-14T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230515": {
+    "date": "2023-05-15T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230516": {
+    "date": "2023-05-16T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230517": {
+    "date": "2023-05-17T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230518": {
+    "date": "2023-05-18T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-05-18",
+      "localName": "Kristi himmelsfärdsdag",
+      "name": "Ascension Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-05-18",
+      "localName": "Kristi himmelsfärdsdag",
+      "name": "Ascension Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230519": {
+    "date": "2023-05-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230520": {
+    "date": "2023-05-20T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230521": {
+    "date": "2023-05-21T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230522": {
+    "date": "2023-05-22T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230523": {
+    "date": "2023-05-23T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230524": {
+    "date": "2023-05-24T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230525": {
+    "date": "2023-05-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230526": {
+    "date": "2023-05-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230527": {
+    "date": "2023-05-27T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230528": {
+    "date": "2023-05-28T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230529": {
+    "date": "2023-05-29T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230530": {
+    "date": "2023-05-30T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230531": {
+    "date": "2023-05-31T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230601": {
+    "date": "2023-06-01T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230602": {
+    "date": "2023-06-02T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230603": {
+    "date": "2023-06-03T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230604": {
+    "date": "2023-06-04T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230605": {
+    "date": "2023-06-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230606": {
+    "date": "2023-06-06T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-06-06",
+      "localName": "Sveriges nationaldag",
+      "name": "National Day of Sweden",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-06-06",
+      "localName": "Sveriges nationaldag",
+      "name": "National Day of Sweden",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230607": {
+    "date": "2023-06-07T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230608": {
+    "date": "2023-06-08T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230609": {
+    "date": "2023-06-09T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230610": {
+    "date": "2023-06-10T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230611": {
+    "date": "2023-06-11T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230612": {
+    "date": "2023-06-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230613": {
+    "date": "2023-06-13T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230614": {
+    "date": "2023-06-14T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230615": {
+    "date": "2023-06-15T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230616": {
+    "date": "2023-06-16T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230617": {
+    "date": "2023-06-17T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230618": {
+    "date": "2023-06-18T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230619": {
+    "date": "2023-06-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230620": {
+    "date": "2023-06-20T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230621": {
+    "date": "2023-06-21T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230622": {
+    "date": "2023-06-22T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230623": {
+    "date": "2023-06-23T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-06-23",
+      "localName": "Midsommarafton",
+      "name": "Midsummer Eve",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-06-23",
+      "localName": "Midsommarafton",
+      "name": "Midsummer Eve",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230624": {
+    "date": "2023-06-24T18:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-06-24",
+      "localName": "Midsommardagen",
+      "name": "Midsummer Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-06-24",
+      "localName": "Midsommardagen",
+      "name": "Midsummer Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20230625": {
+    "date": "2023-06-25T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230626": {
+    "date": "2023-06-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230627": {
+    "date": "2023-06-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230628": {
+    "date": "2023-06-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230629": {
+    "date": "2023-06-29T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230630": {
+    "date": "2023-06-30T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230701": {
+    "date": "2023-07-01T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230702": {
+    "date": "2023-07-02T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230703": {
+    "date": "2023-07-03T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230704": {
+    "date": "2023-07-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230705": {
+    "date": "2023-07-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230706": {
+    "date": "2023-07-06T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230707": {
+    "date": "2023-07-07T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230708": {
+    "date": "2023-07-08T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230709": {
+    "date": "2023-07-09T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230710": {
+    "date": "2023-07-10T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230711": {
+    "date": "2023-07-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230712": {
+    "date": "2023-07-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230713": {
+    "date": "2023-07-13T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230714": {
+    "date": "2023-07-14T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230715": {
+    "date": "2023-07-15T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230716": {
+    "date": "2023-07-16T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230717": {
+    "date": "2023-07-17T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230718": {
+    "date": "2023-07-18T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230719": {
+    "date": "2023-07-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230720": {
+    "date": "2023-07-20T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230721": {
+    "date": "2023-07-21T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230722": {
+    "date": "2023-07-22T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230723": {
+    "date": "2023-07-23T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230724": {
+    "date": "2023-07-24T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230725": {
+    "date": "2023-07-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230726": {
+    "date": "2023-07-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230727": {
+    "date": "2023-07-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230728": {
+    "date": "2023-07-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230729": {
+    "date": "2023-07-29T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230730": {
+    "date": "2023-07-30T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230731": {
+    "date": "2023-07-31T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230801": {
+    "date": "2023-08-01T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230802": {
+    "date": "2023-08-02T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230803": {
+    "date": "2023-08-03T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230804": {
+    "date": "2023-08-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230805": {
+    "date": "2023-08-05T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230806": {
+    "date": "2023-08-06T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230807": {
+    "date": "2023-08-07T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230808": {
+    "date": "2023-08-08T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230809": {
+    "date": "2023-08-09T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230810": {
+    "date": "2023-08-10T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230811": {
+    "date": "2023-08-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230812": {
+    "date": "2023-08-12T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230813": {
+    "date": "2023-08-13T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230814": {
+    "date": "2023-08-14T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230815": {
+    "date": "2023-08-15T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230816": {
+    "date": "2023-08-16T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230817": {
+    "date": "2023-08-17T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230818": {
+    "date": "2023-08-18T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230819": {
+    "date": "2023-08-19T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230820": {
+    "date": "2023-08-20T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230821": {
+    "date": "2023-08-21T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230822": {
+    "date": "2023-08-22T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230823": {
+    "date": "2023-08-23T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230824": {
+    "date": "2023-08-24T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230825": {
+    "date": "2023-08-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230826": {
+    "date": "2023-08-26T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230827": {
+    "date": "2023-08-27T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230828": {
+    "date": "2023-08-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230829": {
+    "date": "2023-08-29T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230830": {
+    "date": "2023-08-30T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230831": {
+    "date": "2023-08-31T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230901": {
+    "date": "2023-09-01T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230902": {
+    "date": "2023-09-02T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230903": {
+    "date": "2023-09-03T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230904": {
+    "date": "2023-09-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230905": {
+    "date": "2023-09-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230906": {
+    "date": "2023-09-06T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230907": {
+    "date": "2023-09-07T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230908": {
+    "date": "2023-09-08T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230909": {
+    "date": "2023-09-09T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230910": {
+    "date": "2023-09-10T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230911": {
+    "date": "2023-09-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230912": {
+    "date": "2023-09-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230913": {
+    "date": "2023-09-13T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230914": {
+    "date": "2023-09-14T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230915": {
+    "date": "2023-09-15T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230916": {
+    "date": "2023-09-16T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230917": {
+    "date": "2023-09-17T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230918": {
+    "date": "2023-09-18T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230919": {
+    "date": "2023-09-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230920": {
+    "date": "2023-09-20T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20230921": {
+    "date": "2023-09-21T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20230922": {
+    "date": "2023-09-22T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20230923": {
+    "date": "2023-09-23T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20230924": {
+    "date": "2023-09-24T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20230925": {
+    "date": "2023-09-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20230926": {
+    "date": "2023-09-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20230927": {
+    "date": "2023-09-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20230928": {
+    "date": "2023-09-28T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20230929": {
+    "date": "2023-09-29T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20230930": {
+    "date": "2023-09-30T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231001": {
+    "date": "2023-10-01T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231002": {
+    "date": "2023-10-02T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231003": {
+    "date": "2023-10-03T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231004": {
+    "date": "2023-10-04T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231005": {
+    "date": "2023-10-05T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231006": {
+    "date": "2023-10-06T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231007": {
+    "date": "2023-10-07T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231008": {
+    "date": "2023-10-08T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231009": {
+    "date": "2023-10-09T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231010": {
+    "date": "2023-10-10T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231011": {
+    "date": "2023-10-11T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231012": {
+    "date": "2023-10-12T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231013": {
+    "date": "2023-10-13T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231014": {
+    "date": "2023-10-14T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231015": {
+    "date": "2023-10-15T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231016": {
+    "date": "2023-10-16T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231017": {
+    "date": "2023-10-17T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231018": {
+    "date": "2023-10-18T18:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231019": {
+    "date": "2023-10-19T18:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231020": {
+    "date": "2023-10-20T18:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231021": {
+    "date": "2023-10-21T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231022": {
+    "date": "2023-10-22T18:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231023": {
+    "date": "2023-10-23T18:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231024": {
+    "date": "2023-10-24T18:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231025": {
+    "date": "2023-10-25T18:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231026": {
+    "date": "2023-10-26T18:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231027": {
+    "date": "2023-10-27T18:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231028": {
+    "date": "2023-10-28T18:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231029": {
+    "date": "2023-10-29T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231030": {
+    "date": "2023-10-30T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231031": {
+    "date": "2023-10-31T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231101": {
+    "date": "2023-11-01T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231102": {
+    "date": "2023-11-02T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231103": {
+    "date": "2023-11-03T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231104": {
+    "date": "2023-11-04T19:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-11-04",
+      "localName": "Alla helgons dag",
+      "name": "All Saints' Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-11-04",
+      "localName": "Alla helgons dag",
+      "name": "All Saints' Day",
+      "countryCode": "SE",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20231105": {
+    "date": "2023-11-05T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231106": {
+    "date": "2023-11-06T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231107": {
+    "date": "2023-11-07T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231108": {
+    "date": "2023-11-08T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231109": {
+    "date": "2023-11-09T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231110": {
+    "date": "2023-11-10T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231111": {
+    "date": "2023-11-11T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231112": {
+    "date": "2023-11-12T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231113": {
+    "date": "2023-11-13T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231114": {
+    "date": "2023-11-14T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231115": {
+    "date": "2023-11-15T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231116": {
+    "date": "2023-11-16T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231117": {
+    "date": "2023-11-17T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231118": {
+    "date": "2023-11-18T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231119": {
+    "date": "2023-11-19T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231120": {
+    "date": "2023-11-20T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231121": {
+    "date": "2023-11-21T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231122": {
+    "date": "2023-11-22T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231123": {
+    "date": "2023-11-23T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231124": {
+    "date": "2023-11-24T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231125": {
+    "date": "2023-11-25T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231126": {
+    "date": "2023-11-26T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231127": {
+    "date": "2023-11-27T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231128": {
+    "date": "2023-11-28T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231129": {
+    "date": "2023-11-29T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231130": {
+    "date": "2023-11-30T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231201": {
+    "date": "2023-12-01T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231202": {
+    "date": "2023-12-02T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231203": {
+    "date": "2023-12-03T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231204": {
+    "date": "2023-12-04T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231205": {
+    "date": "2023-12-05T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231206": {
+    "date": "2023-12-06T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231207": {
+    "date": "2023-12-07T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231208": {
+    "date": "2023-12-08T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231209": {
+    "date": "2023-12-09T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231210": {
+    "date": "2023-12-10T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231211": {
+    "date": "2023-12-11T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231212": {
+    "date": "2023-12-12T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231213": {
+    "date": "2023-12-13T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231214": {
+    "date": "2023-12-14T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231215": {
+    "date": "2023-12-15T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231216": {
+    "date": "2023-12-16T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231217": {
+    "date": "2023-12-17T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231218": {
+    "date": "2023-12-18T19:31:09.284Z",
+    "restDay": false,
+    "user": "Jamiu"
+  },
+  "20231219": {
+    "date": "2023-12-19T19:31:09.284Z",
+    "restDay": false,
+    "user": "Tim"
+  },
+  "20231220": {
+    "date": "2023-12-20T19:31:09.284Z",
+    "restDay": false,
+    "user": "Fredrik"
+  },
+  "20231221": {
+    "date": "2023-12-21T19:31:09.284Z",
+    "restDay": false,
+    "user": "Adrian"
+  },
+  "20231222": {
+    "date": "2023-12-22T19:31:09.284Z",
+    "restDay": false,
+    "user": "Paulo"
+  },
+  "20231223": {
+    "date": "2023-12-23T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  },
+  "20231224": {
+    "date": "2023-12-24T19:31:09.284Z",
+    "isHoliday": true,
+    "restDay": true,
+    "user": null
+  },
+  "20231225": {
+    "date": "2023-12-25T19:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-12-25",
+      "localName": "Juldagen",
+      "name": "Christmas Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-12-25",
+      "localName": "Juldagen",
+      "name": "Christmas Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20231226": {
+    "date": "2023-12-26T19:31:09.284Z",
+    "isHoliday": {
+      "date": "2023-12-26",
+      "localName": "Annandag jul",
+      "name": "St. Stephen's Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "restDay": {
+      "date": "2023-12-26",
+      "localName": "Annandag jul",
+      "name": "St. Stephen's Day",
+      "countryCode": "SE",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "type": "Public"
+    },
+    "user": null
+  },
+  "20231227": {
+    "date": "2023-12-27T19:31:09.284Z",
+    "restDay": false,
+    "user": "Joakim"
+  },
+  "20231228": {
+    "date": "2023-12-28T19:31:09.284Z",
+    "restDay": false,
+    "user": "Eugene"
+  },
+  "20231229": {
+    "date": "2023-12-29T19:31:09.284Z",
+    "restDay": false,
+    "user": "Enzo"
+  },
+  "20231230": {
+    "date": "2023-12-30T19:31:09.284Z",
+    "restDay": true,
+    "user": null
+  }
+}

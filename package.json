@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc -p tsconfig.json && cp -R src/files build/files",
+    "build": "yarn && tsc -p tsconfig.json && cp -R src/files build/files",
     "start": "node build/app.js",
     "dev": "tsnd --respawn --transpile-only --exit-child src/app.ts"
   },

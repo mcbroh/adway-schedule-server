@@ -2,7 +2,7 @@
   "name": "adway-schedule-server",
   "version": "1.0.0",
   "description": "",
-  "main": "build/app.js",
+  "main": "./build/app.js",
   "scripts": {
     "build": "tsc -p tsconfig.json && cp -R src/files build/files",
     "start": "node build/app.js",

@@ -1,8 +1,12 @@
+import cors from "cors";
 import express from "express";
+
 import getSchedule from "./utils/getSchedule";
 import updateSchema from "./utils/updateSchema";
 
 const app = express();
+app.use(cors());
+
 app.get("/", async (req, res) => {
   const schedule = await getSchedule();
 

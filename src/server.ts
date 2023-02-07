@@ -1,38 +1,27 @@
-const HTTP_PORT = process.env.PORT || 8080;
-import cors from "@fastify/cors";
-import Fastify from "fastify";
-
-import { initRoutes } from "./router/schemaRoutes";
-
-export const server = Fastify();
-/* import express from "express";
-
+import express from "express";
+import getSchedule from "./utils/getSchedule";
+import updateSchema from "./utils/updateSchema";
 
 const app = express();
-app.get("/", (req, res) => {
-  res.send("Hello World!");
+app.get("/", async (req, res) => {
+  const schedule = await getSchedule();
+
+  res.send({ schedule });
 });
 
-app.listen(HTTP_PORT); */
+app.post("/:key1/:key2", async (request, response) => {
+  const { data, error } = await updateSchema(
+    request.params.key1,
+    request.params.key2
+  );
 
-server.get('/', async (request, reply) => {
-  return { hello: 'world' }
-})
-
-
-const start = async () => {
-  // await server.register(cors);
-  // routes must be initiated last
-  // await initRoutes(server);
-
-  try {
-    await server.listen({ port: 8080 });
-
-    console.log(`Server ready on port ${HTTP_PORT}`);
-  } catch (error) {
-    console.log(error);
-    process.exit(1);
+  if (data) {
+    return response.send({ schedule: data });
   }
-}
 
-start();
+  return response.status(500).send({ error: error });
+});
+
+const HTTP_PORT = process.env.PORT || 8080;
+
+app.listen(HTTP_PORT);

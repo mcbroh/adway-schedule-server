@@ -6,9 +6,9 @@ import { initRoutes } from "./router/schemaRoutes";
 export const server = Fastify();
 
 async function main() {
+  await server.register(cors);
   // routes must be initiated last
   await initRoutes(server);
-  await server.register(cors);
 
   try {
     const port = process.env.PORT || 8080;

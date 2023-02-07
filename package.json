@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "start": "node server.js",
+    "start": "node src/server.js",
     "dev": "tsnd --respawn --transpile-only --exit-child src/server.ts"
   },
   "keywords": [],

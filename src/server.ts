@@ -1,6 +1,6 @@
 import cors from "cors";
 import express from "express";
-
+import createIcs from "./utils/createIcs";
 import getSchedule from "./utils/getSchedule";
 import swapSupportResponsible from "./utils/swapSupportResponsible";
 
@@ -11,6 +11,20 @@ app.get("/", async (req, res) => {
   const schedule = await getSchedule();
 
   res.send({ schedule });
+});
+
+app.get("/:user/ics", async (req, res) => {
+  const schedule = await getSchedule();
+  const filtered = schedule.filter(
+    ({ user }) => user?.toLowerCase() === req.params.user.toLowerCase()
+  );
+
+  const { error, value } = createIcs(filtered);
+  if (error) {
+    res.send({ error });
+  }
+  res.setHeader("Content-Type", "text/calendar");
+  res.send(value);
 });
 
 app.post("/:key1/:key2", async (request, response) => {

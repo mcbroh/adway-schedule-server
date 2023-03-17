@@ -12,3 +12,8 @@ export interface IUpdateReadResponse {
   data?: TSchemaData;
   error?: Error | string;
 }
+
+export interface ISupportScheduleEntry {
+  resource: string | null;
+  date: string;
+}

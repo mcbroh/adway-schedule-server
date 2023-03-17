@@ -4,7 +4,7 @@ import {
   responseOkSchema,
 } from "../schemas/schedule.schema";
 import getSchedule from "../utils/getSchedule";
-import updateSchema from "../utils/updateSchema";
+import swapSupportResponsible from "../utils/swapSupportResponsible";
 
 export const initRoutes = async (server) => {
   server.get(
@@ -35,16 +35,16 @@ export const initRoutes = async (server) => {
       },
     },
     async (request, reply) => {
-      const { data, error } = await updateSchema(
-        request.params.key1,
-        request.params.key2
-      );
+      try {
+        const updatedSchedule = await swapSupportResponsible(
+          request.params.key1,
+          request.params.key2
+        );
 
-      if (data) {
-        return reply.send({ schedule: data });
+        return reply.send({ schedule: updatedSchedule });
+      } catch (error) {
+        return reply.status(500).send({ error: error.message });
       }
-
-      return reply.status(500).send({ error: error });
     }
   );
 };

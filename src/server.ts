@@ -2,7 +2,7 @@ import cors from "cors";
 import express from "express";
 
 import getSchedule from "./utils/getSchedule";
-import updateSchema from "./utils/updateSchema";
+import swapSupportResponsible from "./utils/swapSupportResponsible";
 
 const app = express();
 app.use(cors());
@@ -14,16 +14,16 @@ app.get("/", async (req, res) => {
 });
 
 app.post("/:key1/:key2", async (request, response) => {
-  const { data, error } = await updateSchema(
-    request.params.key1,
-    request.params.key2
-  );
+  try {
+    const updatedSchedule = await swapSupportResponsible(
+      request.params.key1,
+      request.params.key2
+    );
 
-  if (data) {
-    return response.send({ schedule: data });
+    return response.send({ schedule: updatedSchedule });
+  } catch (error) {
+    return response.status(500).send({ error: error.message });
   }
-
-  return response.status(500).send({ error: error });
 });
 
 const HTTP_PORT = process.env.PORT || 8080;

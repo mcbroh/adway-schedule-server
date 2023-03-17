@@ -1,14 +1,35 @@
 import dayjs from "dayjs";
 import readXlsxFile from "read-excel-file/node";
+import fetch from "node-fetch";
 
-import { ISchema, TSchemaData } from "./types";
+import { ISchema, ISupportScheduleEntry, TSchemaData } from "./types";
 import readSchema from "./readSchema";
 import fetchHolidays from "./fetchHolidays";
 import { schemaXlsxPath } from "./constants";
 import writeSchema from "./writeSchema";
 import schemaToArray from "./schemaToArray";
 
-const getSchedule = async (): Promise<Array<ISchema>> => {
+const SCHEDULE_API_BASE_URL =
+  "https://wer2qlkhg9.execute-api.eu-north-1.amazonaws.com";
+
+const getSchedule = async (): Promise<ISchema[]> => {
+  const year = new Date(Date.now()).getFullYear();
+  const supportScheduleResponse = await fetch(
+    `${SCHEDULE_API_BASE_URL}/schedule/${year}-01-01/${year}-12-31`
+  );
+  const supportSchedule =
+    (await supportScheduleResponse.json()) as ISupportScheduleEntry[];
+
+  return supportSchedule.map((scheduleEntry) => ({
+    id: scheduleEntry.date,
+    date: scheduleEntry.date,
+    isHoliday: false,
+    restDay: scheduleEntry.resource === null,
+    user: scheduleEntry.resource ?? "",
+  }));
+};
+
+const getScheduleOld = async (): Promise<Array<ISchema>> => {
   const holidays = await fetchHolidays(dayjs().format("YYYY"));
 
   const { data } = await readSchema();
@@ -47,10 +68,9 @@ const getSchedule = async (): Promise<Array<ISchema>> => {
             dayjs(date).format("YYYY-MM-DD") === dayjs(d).format("YYYY-MM-DD")
           );
         });
-        
 
         const isSaturday = d.getDay() === 6;
-        const isRedDay = d.getDay() ===  0 || holiday;
+        const isRedDay = d.getDay() === 0 || holiday;
 
         days[dayjs(d).format("YYYYMMDD")] = {
           date: new Date(d),
